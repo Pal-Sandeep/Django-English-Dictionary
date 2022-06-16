@@ -3,7 +3,7 @@ from PyDictionary import PyDictionary
 
 from django.contrib import messages
 import requests, json
-import enchant
+
 
 # Create your views here.
 def index(request):
